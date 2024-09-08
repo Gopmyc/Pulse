@@ -1,6 +1,6 @@
 # Pulse Programming Language
 
-**Pulse** is a programming language project currently undergoing continuous improvement. If you're interested in using this language, please visit the [stable branch](link-to-stable-branch) of the project. Pulse is primarily focused on graphics rendering and optimization.
+**Pulse** is a programming language project currently undergoing continuous improvement. If you're interested in using this language, please visit the [stable branch](https://github.com/Gopmyc/Pulse.git) of the project. Pulse is primarily focused on graphics rendering and optimization.
 
 ## Objectives
 
