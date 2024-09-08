@@ -30,5 +30,5 @@
 
 ## Getting Started
 
-To get started with Pulse, please visit our [stable branch](https://github.com/Gopmyc/Pulse/edit/main) and check out the documentation for more details.
+To get started with Pulse, please visit our [stable branch](https://github.com/Gopmyc/Pulse.git) and check out the documentation for more details.
 
