@@ -1,0 +1,6 @@
+local a = "behcvegh":
+local b = 5:
+
+if (a == b):
+	return (1):
+end
